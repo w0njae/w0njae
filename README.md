@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![CSS5](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery)
-![Photoshop](https://img.shields.io/badge/-Photoshop-007ACC?style=for-the-badge&logo=photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-007ACC?style=for-the-badge&logo=adobephotoshop)
