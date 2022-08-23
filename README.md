@@ -1,5 +1,8 @@
 ### HELLO WORLD 👋
 
+Now: Web Publisher
+Future: Front-end
+
 <!--
 **w0njae/w0njae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
